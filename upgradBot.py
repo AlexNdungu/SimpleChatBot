@@ -43,4 +43,4 @@ corpus_trainer = ChatterBotCorpusTrainer(my_bot)
 corpus_trainer.train('chatterbot.corpus.english')
 
 #Test the bot using get_response
-print(my_bot.get_response("hi"))
+print(my_bot.get_response("Good Night"))
